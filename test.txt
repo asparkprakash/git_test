@@ -3,3 +3,5 @@ git test
 added asparksystem as org.
 
 git stash test
+
+git go one step before commit
